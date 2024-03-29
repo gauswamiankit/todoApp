@@ -1,5 +1,5 @@
 
-# ToDo App UI Kit
+# ToDo App
 
 <table>
   <tr>
